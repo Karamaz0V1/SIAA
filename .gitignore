@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# Directories
+[Bb]uild
+[Dd]ebug
+[Rr]elease
